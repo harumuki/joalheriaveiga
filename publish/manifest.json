@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.0462a5bff93fb56eb684cd3107b44d30.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.35ba92cfca13e7c598f7a6d46eafc18d.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.2a293b16c436db66abc8ad8c2b0c0b6f.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.1b242d7fcd7c52ead7449f4944cf074c.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.2e9bb0fd9f5961a6d839d0d5bfabe20e.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Joalheria Veiga",
+  "short_name": "Joalheria Veiga",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Com mais de 11 anos de experiência a Joalheria Veiga se destaca em anéis, brincos, colares, pulseiras e pingentes, joias personalizadas em Ouro e Prata com preço baixo, todas com excelente qualidade, confeccionadas exatamente para você!",
+  "background_color": "#ffffff",
+  "theme_color": "#9a6a40"
+}
